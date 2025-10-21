@@ -8,7 +8,7 @@ export const menuItems: MenuItem[] = [
     price: 590,
     category: 'Основные блюда',
     cuisine: 'Итальянская',
-    image: 'https://placehold.co/400x300/FF6B35/white?text=Margherita',
+    image: 'https://cdn.poehali.dev/projects/4c0d7edd-feb1-49d9-871d-4272bab7abd9/files/eb7ffa3e-022a-4db3-a768-0bf5ca05338e.jpg',
     isPopular: true
   },
   {
@@ -18,7 +18,7 @@ export const menuItems: MenuItem[] = [
     price: 1290,
     category: 'Основные блюда',
     cuisine: 'Японская',
-    image: 'https://placehold.co/400x300/FF6B35/white?text=Sushi+Set',
+    image: 'https://cdn.poehali.dev/projects/4c0d7edd-feb1-49d9-871d-4272bab7abd9/files/3e1ca8ac-0355-402f-9c98-01182689a88f.jpg',
     isPopular: true
   },
   {
@@ -28,7 +28,7 @@ export const menuItems: MenuItem[] = [
     price: 450,
     category: 'Основные блюда',
     cuisine: 'Американская',
-    image: 'https://placehold.co/400x300/FF6B35/white?text=BBQ+Burger',
+    image: 'https://cdn.poehali.dev/projects/4c0d7edd-feb1-49d9-871d-4272bab7abd9/files/07ccdd1b-e8bb-42a2-ba3a-763b3fc2e7ba.jpg',
     isPopular: true
   },
   {
